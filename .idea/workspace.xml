@@ -1,25 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b58b9332-d024-4a9e-8cf7-45f5ccd5f767" name="Changes" comment="" />
+    <list default="true" id="b58b9332-d024-4a9e-8cf7-45f5ccd5f767" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BRSAO212/Atividades_Praticas_1/Exercicios_1/1-Programa de Saudação.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BRSAO212/Atividades_Praticas_1/Exercicios_2/2-Calculadora de Soma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BRSAO212/Atividades_Praticas_1/Exercicios_3/3-Calculadora de Volume.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EscolaDaNuvem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EscolaDaNuvem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRSAO212/Atividades_Praticas_1/Exercicios_1/Exercicio_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRSAO212/Atividades_Praticas_1/Exercicios_4/4-Calculadora de Preço Total.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="384fA9oBGqYrQ92Lx6MfSIWsfgD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2-Calculadora de Soma.executor": "Run",
+    "Python.3-Calculadora de Volume.executor": "Run",
+    "Python.4-Calculadora de Preço Total.executor": "Run",
+    "Python.Exercicio_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -40,10 +77,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768063618126</updated>
+      <workItem from="1768063619156" duration="3090000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EscolaDaNuvem$3_Calculadora_de_Volume.coverage" NAME="3-Calculadora de Volume Coverage Results" MODIFIED="1768066709778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BRSAO212/Atividades_Praticas_1/Exercicios__3" />
+    <SUITE FILE_PATH="coverage/EscolaDaNuvem$Exercicio_1.coverage" NAME="Exercicio_1 Coverage Results" MODIFIED="1768065247366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BRSAO212/Atividades_Praticas_1/Exercicios_1" />
+    <SUITE FILE_PATH="coverage/EscolaDaNuvem$4_Calculadora_de_Preço_Total.coverage" NAME="4-Calculadora de Preço Total Coverage Results" MODIFIED="1768067671872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BRSAO212/Atividades_Praticas_1/Exercicios_4" />
+    <SUITE FILE_PATH="coverage/EscolaDaNuvem$2_Calculadora_de_Soma.coverage" NAME="2-Calculadora de Soma Coverage Results" MODIFIED="1768066737141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BRSAO212/Atividades_Praticas_1/Exercicios_2" />
   </component>
 </project>
