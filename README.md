@@ -5,18 +5,25 @@ Este repositório documenta minha evolução técnica no curso da **Escola da Nu
 ## 🎖️ Certificação Alcançada
 - **AWS Certified Cloud Practitioner** (Concluída em Dezembro/2025)
 
-## 🚀 Projeto de Conclusão: Python + IA
-O projeto final consiste em [Breve descrição, ex: uma aplicação de análise preditiva ou automação inteligente] utilizando Python e serviços de IA da AWS.
+## 🚀 Projeto de Conclusão: AWS Study Assistant (Python + IA)
 
-### 🛠️ Tech Stack em Foco:
-* **Linguagem:** Python (Foco em automação e integração).
-* **IA/ML:** AWS SageMaker, Rekognition ou Bedrock (GenAI).
-* **Infraestrutura:** AWS Lambda, S3 e Boto3.
+O objetivo deste projeto é criar um assistente de estudos inteligente para certificações AWS. A aplicação processa diferentes tipos de entrada para extrair conceitos-chave e retornar explicações detalhadas da base de dados da AWS.
 
-## 📂 Estrutura do Repositório
-* `/python-labs`: Exercícios de lógica, loops, exceções e funções.
-* `/ia-projects`: Modelos de IA e integrações com APIs.
-* `/aws-automation`: Scripts Python (Boto3) para gerenciamento de recursos AWS.
+### 🧠 Funcionalidades
+* **Processamento Multimodal:** Aceita arquivos de texto, inputs diretos ou imagens (via OCR).
+* **Extração de Keywords:** Utiliza Processamento de Linguagem Natural (NLP) para identificar termos técnicos (ex: "Idempotency", "Stateless", "Provisioned Throughput").
+* **Busca Semântica:** Pesquisa em uma base de dados de estudos da AWS para retornar definições, casos de uso e exemplos práticos.
+
+### 🛠️ Tecnologias Sugeridas para o Projeto:
+* **Python:** Linguagem base para toda a lógica.
+* **AWS Rekognition ou Tesseract:** Para extrair texto de imagens (prints de slides ou livros).
+* **Boto3:** Para integração com os serviços da AWS.
+* **Pandas/JSON:** Para gerenciar a base de dados de assuntos da certificação.
+
+### 📂 Como o projeto funciona (Fluxo):
+1.  **Entrada:** O usuário sobe uma imagem de uma questão de simulado ou um parágrafo do whitepaper.
+2.  **Processamento:** O script Python limpa o texto e identifica as "Palavras de Ordem" (Keywords).
+3.  **Resultado:** O programa exibe um resumo do assunto encontrado na base de dados, auxiliando na memorização rápida.
 
 ---
 
@@ -28,3 +35,4 @@ O projeto final consiste em [Breve descrição, ex: uma aplicação de análise 
 
 ---
 *“A nuvem é o motor, e o Python é o combustível para a Inteligência Artificial.”*
+
